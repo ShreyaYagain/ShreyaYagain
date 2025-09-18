@@ -23,17 +23,14 @@
 
 ## 📂 Projects  
 - 🧤 **Smart Gesture Glove** – Assistive glove using Arduino & ESP32 to help paralyzed patients communicate (with sensors + audio/visual output)  
-- 🌐 **Web Programming Coursework** – HTML/CSS projects exploring responsive layouts  
-- ⚡ **Formula E Contributions** – Worked on team newsletter + technical content  
+- 🌐 **Web Programming Coursework** – HTML/CSS projects exploring responsive layouts   
 
 ---
 
 ## 📈 GitHub Stats  
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyaYagain&show_icons=true&theme=radical)  
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyaYagain&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaYagain&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaYagain&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaYagain&layout=compact&theme=radical)
 
 🐍 Contribution snake:  
 ![snake gif](https://github.com/ShreyaYagain/ShreyaYagain/blob/output/github-contribution-grid-snake.svg)  
