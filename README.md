@@ -16,26 +16,8 @@
 - **Programming Languages:** C, C++, Java, Python, JavaScript, TypeScript, SQL  
 - **Web Development:** HTML, CSS, React.js, Node.js, Bootstrap  
 - **Databases:** MySQL  
-- **Tools & Platforms:** Git, GitHub, VS Code, Canva, Figma, MS Excel, LaTeX  
-- **Other:** Linux (Basics), Problem-Solving  
+- **Tools & Platforms:** Git, GitHub, VS Code, Canva, Figma, MS Excel, LaTeX
 
----
-
-## 📂 Projects  
-- 🧤 **Smart Gesture Glove** – Assistive glove using Arduino & ESP32 to help paralyzed patients communicate (with sensors + audio/visual output)  
-- 🌐 **Web Programming Coursework** – HTML/CSS projects exploring responsive layouts   
-
----
-
-## 📈 GitHub Stats  
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyaYagain&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaYagain&layout=compact&theme=radical)
-
-🐍 Contribution snake:  
-<img src="https://raw.githubusercontent.com/ShreyaYagain/ShreyaYagain/output/snake.svg" alt="Snake animation" />
-
-###
 ---
 
 ## 📬 Contact Me  
