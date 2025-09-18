@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hey there, I'm Shreya 👋  
 
-<!--
-**ShreyaYagain/ShreyaYagain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | ✨ Artist | 👩‍💻 Code Explorer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me  
+- 🛠 Currently working on assistive tech + cool embedded projects  
+- 🎨 Love sketching & planning to share art on Instagram soon  
+- 🌱 Always learning (recently Verilog + Git stuff)  
+- 🕹️ Gamer on the side (Cyberpunk 2077 took my soul recently lol)  
+
+---
+
+## 🛠 Skills  
+- **Programming Languages:** C, C++, Java, Python, JavaScript, TypeScript, SQL  
+- **Web Development:** HTML, CSS, React.js, Node.js, Bootstrap  
+- **Databases:** MySQL  
+- **Tools & Platforms:** Git, GitHub, VS Code, Canva, Figma, MS Excel, LaTeX  
+- **Other:** Linux (Basics), Problem-Solving  
+
+---
+
+## 📂 Projects  
+- 🧤 **Smart Gesture Glove** – Assistive glove using Arduino & ESP32 to help paralyzed patients communicate (with sensors + audio/visual output)  
+- 🌐 **Web Programming Coursework** – HTML/CSS projects exploring responsive layouts  
+- ⚡ **Formula E Contributions** – Worked on team newsletter + technical content  
+
+---
+
+## 📈 GitHub Stats  
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyaYagain&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaYagain&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaYagain&theme=radical)  
+
+🐍 Contribution snake:  
+![snake gif](https://github.com/ShreyaYagain/ShreyaYagain/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
+## 📬 Contact Me  
+- 📧 Email: shreya.yagain@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shreya-yagain-75a787384)  
+- 🌐 Portfolio: *coming soon*  
+
+---
+
+## ✨ Fun Zone  
+- 🎧 Currently vibing with: Chase Atlantic, Arctic Monkeys, charlie-xcx, etc etc  
+- 🎮 Gaming: Cyberpunk 2077, some free Steam gems, genshin!!!! 
+- 🐾 Cat mom  
+
+
+> *“Blending engineering logic with artistic chaos — because why not?”* ✨
+
