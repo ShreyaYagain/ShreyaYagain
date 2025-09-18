@@ -33,8 +33,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaYagain&layout=compact&theme=radical)
 
 🐍 Contribution snake:  
-![snake gif](https://github.com/ShreyaYagain/ShreyaYagain/blob/output/github-contribution-grid-snake.svg)  
+<img src="https://raw.githubusercontent.com/ShreyaYagain/ShreyaYagain/output/snake.svg" alt="Snake animation" />
 
+###
 ---
 
 ## 📬 Contact Me  
