@@ -22,7 +22,7 @@
 ## 📬 Contact Me  
 - 📧 Email: shreya.yagain@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shreya-yagain-75a787384)  
-- 🌐 Portfolio: *coming soon*  
+- 🌐 Portfolio: (https://shreya-portfolio-mu.vercel.app) 
 
 ---
 
