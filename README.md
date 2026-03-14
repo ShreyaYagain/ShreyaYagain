@@ -4,8 +4,7 @@
 
 ---
 
-## 🎯 About Me  
-- 🛠 Currently working on assistive tech + cool embedded projects  
+## 🎯 About Me   
 - 🎨 Love sketching & planning to share art on Instagram soon  
 - 🌱 Always learning (recently Verilog + Git stuff)  
 - 🕹️ Gamer on the side (Cyberpunk 2077 took my soul recently lol)  
